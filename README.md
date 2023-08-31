@@ -1,8 +1,11 @@
 # Oi! Eu sou o Kauê.
 <details open>
 <summary><i>Aqui vai um pouco sobre mim:</i></summary>
+    
 ####
 Sou um desenvolvedor encantado por tecnologia, curioso e com sede de conhecimento. Tenho alguma experiência em desenvolvimento e manutenção de aplicações, mas já passei por outras áreas também.
+</details>
+
 ####
 <details open>
 <summary><i>Meus Interesses atuais:</i></summary>
