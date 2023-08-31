@@ -1,4 +1,4 @@
-### Oi! Eu sou o Kauê.
+# Oi! Eu sou o Kauê.
 #
 Aqui vai um pouco sobre mim:
 ####
