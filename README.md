@@ -28,6 +28,6 @@ Sou um desenvolvedor encantado por tecnologia, curioso e com sede de conheciment
 <div align="left">
   <a href="https://github.com/kako13">
     <img float:left height="190em" src="https://github-readme-stats.vercel.app/api?username=kako13&show_icons=true&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true&hide=prs,contribs,issues&show=total_commits,prs_merged,prs_merged_percentage&rank_icon=github"/>
-    <img float:left height="190em" width=300 src="https://github-readme-stats.vercel.app/api/top-langs?username=kako13&layout=donut&langs_count=10&card_width=250&theme=blueberry&hide_border=true"/>
+    <img float:left height="190em" width=340 src="https://github-readme-stats.vercel.app/api/top-langs?username=kako13&layout=donut&langs_count=10&card_width=250&theme=blueberry&hide_border=true"/>
   </a>
 </div>
