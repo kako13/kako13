@@ -16,6 +16,7 @@ Sou um desenvolvedor encantado por tecnologia, curioso e com sede de conheciment
     - Spring Rest
     - Spring Batch
     - Spring Cloud
+    - Kafka
     - Docker
     - Kubernetes
     - AWS/Azure/OCI - em breve
