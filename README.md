@@ -28,6 +28,7 @@ Sou um desenvolvedor encantado por tecnologia, curioso e com sede de conheciment
 - 📫 Contate-me no Linkedin: [linkedin.com/in/kaue-oliveira-ko](linkedin.com/in/kaue-oliveira-ko)
 </details>
 
+
 #
 <div align="left">
   <a href="https://github.com/kako13">
