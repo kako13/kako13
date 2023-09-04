@@ -11,7 +11,7 @@ Sou um desenvolvedor encantado por tecnologia, curioso e com sede de conheciment
 <summary><i>Meus Interesses atuais:</i></summary>
 
 ####
-- 🔭  Busco por oportunidades de aplicar o conhecimento em tecnologia que tenho adquirido nos últimos anos
+- 🔭 Busco por oportunidades de aplicar o conhecimento em tecnologia que tenho adquirido nos últimos anos
 ####
 - 🌱 No momento quero melhorar e consolidar o entendimento sobre aplicações escaláveis e Cloud Native. Por isso estou revisando e documentando meus estudos relacionados a:
 
