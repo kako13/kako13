@@ -13,7 +13,7 @@ Sou um desenvolvedor encantado por tecnologia, curioso e com sede de conheciment
 ####
 - 🔭  Busco por oportunidades de aplicar o conhecimento em tecnologia que tenho adquirido nos últimos anos
 ####
-- 🌱 No momento quero voltar meus esforços a construir e consolidar meu entendimento em aplicações escaláveis Cloud Native. Por isso estou revisando e documentando meus estudos relacionados a:
+- 🌱 No momento quero melhorar e consolidar o entendimento sobre aplicações escaláveis e Cloud Native. Por isso estou revisando e documentando meus estudos relacionados a:
 
     - Java
     - Spring Rest
